@@ -107,7 +107,7 @@ Koolshare Modified ROM 在使用软件中心前需要先清空并格式化 JFFS2
   
 复制订阅地址（关于如何创建订阅[参考教程](https://doc.biwcloud.com/windows#chuang-jian-ding-yue-lian-jie)）
 
-![&#x590D;&#x5236;&#x8BA2;&#x9605;](.gitbook/assets/image%20%2824%29.png)
+![&#x590D;&#x5236;&#x8BA2;&#x9605;](.gitbook/assets/image%20%2829%29.png)
 
 #### [配置 KoolSS](https://docs.rixcloud.us/Routers/Merlin/Guides/?id=%e9%85%8d%e7%bd%ae-koolss) {#配置-koolss}
 
@@ -125,7 +125,7 @@ Koolshare Modified ROM 在使用软件中心前需要先清空并格式化 JFFS2
 
 进入「更新管理」页面后，滑动页面到下方的「SSR 订阅设置」区域。
 
-![&#x914D;&#x7F6E;ssr&#x8BA2;&#x9605;](.gitbook/assets/image%20%2813%29.png)
+![&#x914D;&#x7F6E;ssr&#x8BA2;&#x9605;](.gitbook/assets/image%20%2818%29.png)
 
 在「订阅地址管理」中粘贴我们之前复制的 rixCloud API URI，然后进行如下设定
 
@@ -139,7 +139,7 @@ Koolshare Modified ROM 在使用软件中心前需要先清空并格式化 JFFS2
 
 设置完成后，点击「保存并订阅」按钮。页面会打开一个新的提示框并出现类似下图中的内容：
 
-![](.gitbook/assets/image%20%2816%29.png)
+![](.gitbook/assets/image%20%2821%29.png)
 
 订阅完成后，页面会自动跳转到主页面，此时 KoolSS 的开关可能将会再次出于关闭状态，点击开关来打开它。
 

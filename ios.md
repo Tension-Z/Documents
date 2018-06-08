@@ -24,7 +24,7 @@ Shadowrocket 同时也是最早支持 SSR 协议的 iOS 客户端，目前也是
 
 复制订阅地址（关于此部分内容请参考Windows[创建订阅](https://doc.biwcloud.com/windows#chuang-jian-ding-yue-lian-jie)）
 
-![&#x590D;&#x5236;&#x8BA2;&#x9605;](.gitbook/assets/image%20%2810%29.png)
+![&#x590D;&#x5236;&#x8BA2;&#x9605;](.gitbook/assets/image%20%2815%29.png)
 
 打开 Shadowrocket，点击 + 或点击「添加节点」
 
@@ -32,11 +32,11 @@ Shadowrocket 同时也是最早支持 SSR 协议的 iOS 客户端，目前也是
 
 在 URL 中粘贴刚才复制的 订阅地址
 
-![&#x6DFB;&#x52A0;&#x914D;&#x7F6E;](.gitbook/assets/image%20%2821%29.png)
+![&#x6DFB;&#x52A0;&#x914D;&#x7F6E;](.gitbook/assets/image%20%2826%29.png)
 
 Shadowrocket 会从 我们订阅地址 获取订阅信息并添加节点到客户端。
 
-![&#x6DFB;&#x52A0;&#x8282;&#x70B9;](.gitbook/assets/image%20%283%29.png)
+![&#x6DFB;&#x52A0;&#x8282;&#x70B9;](.gitbook/assets/image%20%285%29.png)
 
 然后点击底部的「设置」，选择「服务器订阅」，将开关「打开时更新」打开，并确保其他设置和下图相同。
 
