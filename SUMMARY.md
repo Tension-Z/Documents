@@ -6,4 +6,6 @@
 * [Windows](windows.md)
 * [Mac OS](mac-os.md)
 * [iOS](ios.md)
+* [Android](android.md)
+* [路由器](untitled-1.md)
 

@@ -60,28 +60,28 @@ sudo spctl --master-disable
 
 复制订阅地址（关于此部分内容请参考Windows[创建订阅](https://doc.biwcloud.com/windows#chuang-jian-ding-yue-lian-jie)）
 
-![&#x590D;&#x5236;&#x8BA2;&#x9605;](.gitbook/assets/image%20%284%29.png)
+![&#x590D;&#x5236;&#x8BA2;&#x9605;](.gitbook/assets/image%20%285%29.png)
 
 打开 SSX-NG-R，打开后将会在状态栏上出现一个灰色的纸飞机图标。
 
-![&#x7F16;&#x8F91;&#x8BA2;&#x9605;](.gitbook/assets/image%20%288%29.png)
+![&#x7F16;&#x8F91;&#x8BA2;&#x9605;](.gitbook/assets/image%20%289%29.png)
 
 在新的「订阅设置」窗口中点击 `+` 号，然后将刚才复制的 订阅地址 粘贴到「订阅地址」一栏上。点击「OK」
 
-![&#x6DFB;&#x52A0;&#x8BA2;&#x9605;](.gitbook/assets/image%20%286%29.png)
+![&#x6DFB;&#x52A0;&#x8BA2;&#x9605;](.gitbook/assets/image%20%287%29.png)
 
 再次点击 SSX-NG-R 的图标，如图所示勾选「打开时自动更新订阅」并点击「手动更新订阅」。
 
-![&#x66F4;&#x65B0;&#x8BA2;&#x9605;](.gitbook/assets/image%20%2813%29.png)
+![&#x66F4;&#x65B0;&#x8BA2;&#x9605;](.gitbook/assets/image%20%2815%29.png)
 
 如果一切顺利，将会收到通知消息提示订阅更新成功。
 
-![&#x6210;&#x529F;&#x8BA2;&#x9605;](.gitbook/assets/image%20%287%29.png)
+![&#x6210;&#x529F;&#x8BA2;&#x9605;](.gitbook/assets/image%20%288%29.png)
 
 在服务器分组中选择需要的接入点。  
 
 
-![&#x9009;&#x62E9;&#x8282;&#x70B9;](.gitbook/assets/image%20%2812%29.png)
+![&#x9009;&#x62E9;&#x8282;&#x70B9;](.gitbook/assets/image%20%2814%29.png)
 
 选择所需的代理模式，然后点击「打开 Shadowsocks」即可使用
 
