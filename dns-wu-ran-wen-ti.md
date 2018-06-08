@@ -20,19 +20,19 @@
 
 解压缩后放到任意位置，如我们放到 I 盘的 Cloudflare 文件夹中。
 
-![](.gitbook/assets/image%20%287%29.png)
+![](.gitbook/assets/image%20%2813%29.png)
 
 在左下角的 Windows 徽标按钮上右键单击，选择「Windows PowerShell（管理员）」，并在弹出的 UAC 授权提示框（如果有）中允许 PowerShell 使用管理员权限。
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%283%29.png)
 
 定位到 `I:\Cloudflare` 目录。
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%2811%29.png)
 
 以 DNS 代理模式运行 Cloudflared
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2816%29.png)
 
 这时我们已经成功通过 Cloudflared 隧道程序以 HTTPS 方式连接到了 Cloudflare 提供的 DNS。
 

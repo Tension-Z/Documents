@@ -80,18 +80,18 @@ win7以上的系统版本请打开`ShadowsocksR-dotnet4.0.exe`
 打开 SSTap，在主界面如图所示位置点击齿轮图标。（SSTap 的运行需要管理员权限）  
 
 
-![&#xFF08;&#x56FE;&#x4E2D;&#x88AB;&#x6253;&#x7801;&#x7684;&#x90E8;&#x5206;&#x662F; SSTap &#x7684;&#x5E94;&#x7528;&#x5185;&#x5E7F;&#x544A;&#xFF09;](.gitbook/assets/image%20%284%29.png)
+![&#xFF08;&#x56FE;&#x4E2D;&#x88AB;&#x6253;&#x7801;&#x7684;&#x90E8;&#x5206;&#x662F; SSTap &#x7684;&#x5E94;&#x7528;&#x5185;&#x5E7F;&#x544A;&#xFF09;](.gitbook/assets/image%20%288%29.png)
 
 在弹出的菜单中选择「SSR 订阅」 - 「SSR 订阅管理」
 
 在新的窗口中，将刚才复制的`订阅地址`粘贴到「URL」中，然后点击「添加」。
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
   
 完成后，关闭 SSR 订阅管理的窗口，SSTap 将会自动识别 我们的 订阅并添加接入点到 SSTap 中。
 
-![](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 节点订阅添加后，在「代理」中选择所需的接入点，然后在「模式」中选择所需的模式，一般我们选择「不代理中国 IP」。
 
@@ -99,13 +99,13 @@ win7以上的系统版本请打开`ShadowsocksR-dotnet4.0.exe`
 SSTap 虽然宣称为游戏而生，但 我们的 接入点均没有为游戏加速优化，因此我们不对游戏加速性能提供任何保障。
 {% endhint %}
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
 
 完成后，点击「连接」即可通过 SSTap 连接到 我们的 服务器。连接成功后 SSTap 会自动最小化。
 
 你可以通过 SSTap 自带的连接测试来查看连接是否正常。使用方法是点击「代理」右侧的闪电图标。
 
-![](.gitbook/assets/image%20%288%29.png)
+![](.gitbook/assets/image%20%2814%29.png)
 
 ##  Hyper-V 虚拟机
 
