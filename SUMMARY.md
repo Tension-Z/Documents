@@ -2,5 +2,5 @@
 
 * [Documents](README.md)
 * [支持类型](untitled.md)
-* [DNS污染问题](dns-wu-ran-wen-ti.md)
+* [DNS污染](dns-wu-ran-wen-ti.md)
 
