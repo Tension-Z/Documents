@@ -4,7 +4,7 @@
 
 ShadowsocksR（以下简称为 SSR） Windows 客户端是 @breakwa11 开发的，可支持 SSR 全部特性的 Windows 客户端。
 
-`目前由于 @breakwa11 已经停止对 SSR 的开发，因此 rixCloud 也已经停止对此客户端的主流支持，转为扩展支持。`
+`目前由于 @breakwa11 已经停止对 SSR 的开发，因此 我们 也已经停止对此客户端的主流支持，转为扩展支持。`
 
 {% hint style="info" %}
 此文档中的系统环境
