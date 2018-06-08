@@ -1,4 +1,4 @@
-# 路由器
+# 路由器设置教程
 
 ## Koolshare Modified ROM {#koolshare-modified-rom}
 
@@ -109,7 +109,7 @@ Koolshare Modified ROM 在使用软件中心前需要先清空并格式化 JFFS2
 
 ![&#x590D;&#x5236;&#x8BA2;&#x9605;](.gitbook/assets/image%20%2829%29.png)
 
-#### [配置 KoolSS](https://docs.rixcloud.us/Routers/Merlin/Guides/?id=%e9%85%8d%e7%bd%ae-koolss) {#配置-koolss}
+### 配置 KoolSS
 
 点击「已安装」选项卡中的「科学上网」插件进入插件管理页面。
 
@@ -174,4 +174,44 @@ Koolshare Modified ROM 在使用软件中心前需要先清空并格式化 JFFS2
 {% hint style="danger" %}
 某些情况下，显示连接错误并非未能连接上，而是可能的测试失败，请实际使用浏览器打开网页测试。
 {% endhint %}
+
+## Koolshare LEDE {#koolshare-lede}
+
+{% hint style="warning" %}
+我们仅在特定平台和版本上进行过测试，并以此撰写文档
+{% endhint %}
+
+{% hint style="info" %}
+此软件更新较为频繁且有多个版本，文档中的部分内容可能和实际存在差异。
+{% endhint %}
+
+### 测试环境
+
+`Windows Server 2016 Datacenter  
+Hyper-V Hypervisor  
+Koolshare LEDE x64 v2.8  
+KoolSS (Software center) 1.9.7`
+
+### 安装 KoolSS
+
+通过浏览器访问 LEDE 管理页面。
+
+{% hint style="success" %}
+由于 Koolshare LEDE 的页面存在一些兼容性问题，建议使用 Google Chrome 浏览器
+{% endhint %}
+
+点击左侧侧边栏的「酷软」。
+
+![&#x6253;&#x5F00;&#x8F6F;&#x4EF6;&#x4E2D;&#x5FC3;](https://rixcloud-1255365801.file.myqcloud.com/image/3t9vc.png)
+
+在软件中心的「未安装」列表中找到「科学上网插件」，如下图：
+
+![](https://rixcloud-1255365801.file.myqcloud.com/image/ll4ht.png)
+
+> 由于我们已经安装过此插件，因此显示为「更新」
+
+点击插件的「安装」按钮安装，页面将会在安装完成够自动跳转。
+
+  
+
 

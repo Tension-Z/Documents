@@ -1,4 +1,4 @@
-# Mac OS
+# Mac OS设置教程
 
 ## ShadowsocksX-NG-R {#shadowsocksx-ng-r}
 

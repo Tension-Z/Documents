@@ -1,4 +1,4 @@
-# Windows
+# Windows设置教程
 
 ## ShadowsocksR C-sharp {#shadowsocksr-c-sharp}
 
