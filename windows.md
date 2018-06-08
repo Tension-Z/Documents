@@ -86,7 +86,7 @@ win7以上的系统版本请打开`ShadowsocksR-dotnet4.0.exe`
 
 在新的窗口中，将刚才复制的`订阅地址`粘贴到「URL」中，然后点击「添加」。
 
-![](.gitbook/assets/image%20%2828%29.png)
+![](.gitbook/assets/image%20%2829%29.png)
 
   
 完成后，关闭 SSR 订阅管理的窗口，SSTap 将会自动识别 我们的 订阅并添加接入点到 SSTap 中。

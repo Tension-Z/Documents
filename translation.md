@@ -107,7 +107,7 @@ Koolshare Modified ROM 在使用软件中心前需要先清空并格式化 JFFS2
   
 复制订阅地址（关于如何创建订阅[参考教程](https://doc.biwcloud.com/windows#chuang-jian-ding-yue-lian-jie)）
 
-![&#x590D;&#x5236;&#x8BA2;&#x9605;](.gitbook/assets/image%20%2829%29.png)
+![&#x590D;&#x5236;&#x8BA2;&#x9605;](.gitbook/assets/image%20%2830%29.png)
 
 ### 配置 KoolSS
 
@@ -145,7 +145,7 @@ Koolshare Modified ROM 在使用软件中心前需要先清空并格式化 JFFS2
 
 ![&#x6253;&#x5F00;KoolSS&#x5F00;&#x5173;](.gitbook/assets/image.png)
 
-#### [附加设置](https://docs.rixcloud.us/Routers/Merlin/Guides/?id=%e9%99%84%e5%8a%a0%e8%ae%be%e7%bd%ae) {#附加设置}
+### 附加设置
 
 为了使我们的使用更加舒适，我们需要进行一些附加设置。
 
@@ -163,7 +163,7 @@ Koolshare Modified ROM 在使用软件中心前需要先清空并格式化 JFFS2
 
 ![DNS &#x8BBE;&#x5B9A;](https://rixcloud-1255365801.file.myqcloud.com/image/1z7ik.png)
 
-#### [开启 KoolSS](https://docs.rixcloud.us/Routers/Merlin/Guides/?id=%e5%bc%80%e5%90%af-koolss) {#开启-koolss}
+### 开启 KoolSS
 
 完成附加设置后，点击「账号设置」选项卡，选择需要的接入点，然后点击底部的「提交」按钮。KoolSS 将会启动。
 
@@ -212,6 +212,74 @@ KoolSS (Software center) 1.9.7`
 
 点击插件的「安装」按钮安装，页面将会在安装完成够自动跳转。
 
-  
+### 复制订阅
 
+复制订阅地址（关于此部分内容请参考Windows[创建订阅](https://doc.biwcloud.com/windows#chuang-jian-ding-yue-lian-jie)）
+
+​![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LEQO1An5RNYdVixPhzO%2F-LETQk_R9ZHl25InppVO%2F-LETTw6tdJ-6wduxnhVW%2Fimage.png?alt=media&token=5f944e0f-f5c4-4191-906a-820dc8163b7b)  
+
+
+### 配置 KoolSS
+
+打开软件中心，然后从「已安装」的插件列表中打开 KoolSS。
+
+如果 KoolSS 出于关闭状态，则点击开关打开它。
+
+点击「节点管理」选项卡， 然后点击二级的「节点管理」选项卡。
+
+![&#x8282;&#x70B9;&#x7BA1;&#x7406;](https://rixcloud-1255365801.file.myqcloud.com/image/olods.png)
+
+在下方的 SSR 节点订阅中填写一些必要信息。
+
+将我们刚才复制的 订阅地址 粘贴到「SSR 节点订阅地址」中；将「订阅节点模式设定」选择为「游戏模式」；然后将订阅节点混淆参数设定设置为「使用订阅设定」。
+
+![&#x8BA2;&#x9605;&#x8BBE;&#x7F6E;](.gitbook/assets/image%20%2828%29.png)
+
+配置完成后点击「保存订阅设置」，页面将会自动跳转。
+
+完成后，再次返回此页面，并点击「手动更新订阅」。页面将会自动跳转并刷出类似下图的日志信息：
+
+![&#x66F4;&#x65B0;&#x8BA2;&#x9605;](https://rixcloud-1255365801.file.myqcloud.com/image/k7zql.png)
+
+此时 rixCloud 接入点信息已经添加到你的 KoolSS 中了，现在让我们来做一些附加设置以便更好地使用。
+
+### KoolSS 附加设置
+
+点击「规则管理」选项卡，将下方的 KoolSS 规则自动更新设置为「开启」，将时间设置为你可能不会使用网络的时间，然后勾选所有规则复选框。
+
+![&#x8BBE;&#x7F6E;&#x89C4;&#x5219;&#x7BA1;&#x7406;](https://rixcloud-1255365801.file.myqcloud.com/image/u603p.png)
+
+> 你可以只勾选图中红框框选的「chnroute」和「chn\_list」，但建议全部勾选。
+
+点击「DNS 设定」选项卡，进行如下设定：
+
+> 将「DNS 解析偏好」设置为「国外优先」
+
+> 将「选择国内 DNS」设置为「运营商 DNS」或「自定义」，然后输入 `119.28.28.28`
+
+> 将「选择国外 DNS」设置为「ss-tunnel」，然后选择你喜欢的国外公共 DNS 服务提供商
+
+> 将「SS 服务器地址解析」设置为「nslookup 方式」，然后输入 `119.28.28.28`
+
+> 勾选「chromecast 支持」以劫持局域网内设备的 DNS 解析，避免受到 DNS 缓存污染
+
+![DNS &#x8BBE;&#x5B9A;](https://rixcloud-1255365801.file.myqcloud.com/image/jvmlx.png)
+
+### 开启 KoolSS
+
+返回到 KoolSS 主页面「账号设置」，选择需要使用的接入点，然后点击下方的「提交」按钮。
+
+![&#x9009;&#x62E9;&#x63A5;&#x5165;&#x70B9;](https://rixcloud-1255365801.file.myqcloud.com/image/c4rjl.png)
+
+页面会自动跳转并刷出类似下图的日志信息：
+
+![KoolSS &#x542F;&#x52A8;&#x65E5;&#x5FD7;](https://rixcloud-1255365801.file.myqcloud.com/image/13gcg.png)
+
+完成后，页面会自动跳转回主页面，并启动连接测试，如果如下图显示则连接成功，所有连接到此路由器的设备都可以通过我们网络连接到国际互联网。
+
+![&#x8FDE;&#x63A5;&#x68C0;&#x67E5;](https://rixcloud-1255365801.file.myqcloud.com/image/soig9.png)
+
+{% hint style="info" %}
+某些情况下，显示连接错误并非未能连接上，而是可能的测试失败，请实际使用浏览器打开网页测试。
+{% endhint %}
 

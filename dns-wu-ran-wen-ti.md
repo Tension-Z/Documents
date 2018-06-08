@@ -32,7 +32,7 @@
 
 以 DNS 代理模式运行 Cloudflared
 
-![](.gitbook/assets/image%20%2830%29.png)
+![](.gitbook/assets/image%20%2831%29.png)
 
 这时我们已经成功通过 Cloudflared 隧道程序以 HTTPS 方式连接到了 Cloudflare 提供的 DNS。
 
