@@ -1,5 +1,11 @@
 # Windows设置教程
 
+Windows我们提供三种使用方案，**你只需要选择其中一种即可**：
+
+[ShadowsocksR客户端](https://doc.biwcloud.com/windows#shadowsocksr-c-sharp)与[SSTap客户端](https://doc.biwcloud.com/windows#sstap)配置方案较为简便，适用基本客户，配置好打开客户端即可使用
+
+[Hyper-V 虚拟机](https://doc.biwcloud.com/windows#hyperv-xu-ni-ji) 配置方案较为复制，需要一定的专业知识，适用专业客户端！
+
 ## ShadowsocksR C-sharp {#shadowsocksr-c-sharp}
 
 ShadowsocksR（以下简称为 SSR） Windows 客户端是 @breakwa11 开发的，可支持 SSR 全部特性的 Windows 客户端。
