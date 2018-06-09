@@ -373,6 +373,6 @@ Hyper-V 会打开新的窗口以显示虚拟交换器管理器，在新的窗口
 
 ### LEDE配置 
 
-关于此部分内容，请点击这里参考另一篇[支持文档](https://doc.biwcloud.com/translation#koolshare-lede)。  
+关于此部分内容，请[点击这里](https://doc.biwcloud.com/translation#koolshare-lede)参考另一篇支持文档。  
 
 
